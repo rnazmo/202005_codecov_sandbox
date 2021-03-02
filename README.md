@@ -1,4 +1,4 @@
-# sandbox\_\_codecov
+# Sandbox for codecov
 
 This is sandbox for golang + github actions + codecov + github private repository.
 
